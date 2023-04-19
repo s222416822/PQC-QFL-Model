@@ -1,0 +1,15 @@
+Comm: 0 - Time: 563858924000
+Comm: 1 - Time: 40802265000
+Comm: 2 - Time: 39683791000
+Comm: 3 - Time: 40859726000
+Comm: 4 - Time: 39793467000
+Comm: 5 - Time: 38460299000
+Comm: 6 - Time: 38088212000
+Comm: 7 - Time: 40113854000
+Comm: 8 - Time: 42284934000
+Comm: 9 - Time: 38005606000
+Comm: 10 - Time: 38012153000
+Comm: 11 - Time: 38025707000
+Comm: 12 - Time: 38771693000
+Comm: 13 - Time: 39786987000
+Comm: 14 - Time: 40707690000

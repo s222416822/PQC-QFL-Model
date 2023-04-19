@@ -1,0 +1,15 @@
+Comm: 0 - test_loss: 0.28353044390678406 - test_acc: 0.1904296875
+Comm: 1 - test_loss: 0.2462189495563507 - test_acc: 0.294921875
+Comm: 2 - test_loss: 0.22859317064285278 - test_acc: 0.3671875
+Comm: 3 - test_loss: 0.20787806808948517 - test_acc: 0.4580078125
+Comm: 4 - test_loss: 0.20514313876628876 - test_acc: 0.515625
+Comm: 5 - test_loss: 0.20085693895816803 - test_acc: 0.5400390625
+Comm: 6 - test_loss: 0.20249921083450317 - test_acc: 0.5390625
+Comm: 7 - test_loss: 0.20491445064544678 - test_acc: 0.5185546875
+Comm: 8 - test_loss: 0.20271669328212738 - test_acc: 0.515625
+Comm: 9 - test_loss: 0.19910375773906708 - test_acc: 0.52734375
+Comm: 10 - test_loss: 0.1971297711133957 - test_acc: 0.546875
+Comm: 11 - test_loss: 0.1974579393863678 - test_acc: 0.556640625
+Comm: 12 - test_loss: 0.19901779294013977 - test_acc: 0.5546875
+Comm: 13 - test_loss: 0.1971183717250824 - test_acc: 0.548828125
+Comm: 14 - test_loss: 0.1966429352760315 - test_acc: 0.544921875
