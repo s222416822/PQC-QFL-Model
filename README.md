@@ -9,3 +9,6 @@ Requirements for liboqs and liboqs-python can be found in their github repos.
 
 
 Logs folder contains some results. 
+
+For QML code used from:
+https://github.com/JasonZHM/quantum-fed-infer
