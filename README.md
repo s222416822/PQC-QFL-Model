@@ -7,7 +7,6 @@ which was invited to present for ICLR 2023 Tiny Papers.
 liboqs https://github.com/open-quantum-safe/liboqs.git
 
 liboqs-python https://github.com/open-quantum-safe/liboqs-python.git 
-can be found in their github repos.
 
 Logs folder contains some results. 
 
