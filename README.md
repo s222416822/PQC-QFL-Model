@@ -14,4 +14,4 @@ which was invited to present for ICLR 2023 Tiny Papers.
 Logs folder contains some results. 
 
 ## References:
-https://github.com/JasonZHM/quantum-fed-infer
+Zhao, H. Non-IID quantum federated learning with one-shot communication complexity. Quantum Mach. Intell. 5, 3 (2023). https://doi.org/10.1007/s42484-022-00091-z
